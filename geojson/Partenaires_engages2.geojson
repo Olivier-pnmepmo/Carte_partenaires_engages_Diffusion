@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "Partenaires_engages2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Partenaire": "Commune d’Étaples-sur-Mer", "Activité": "Randonnée", "Mail": "nature.etaples@gmail.com ", "Téléphone": "03 21 84 13 93" }, "geometry": { "type": "Point", "coordinates": [ 1.520906861870941, 50.56950705069206 ] } },
+{ "type": "Feature", "properties": { "id": 2, "Partenaire": "Commune d’Étaples-sur-Mer", "Activité": "Voile", "Mail": " cn.canche@wanadoo.fr", "Téléphone": "03 21 94 74 26" }, "geometry": { "type": "Point", "coordinates": [ 1.556639886991626, 50.562187038881639 ] } },
+{ "type": "Feature", "properties": { "id": 3, "Partenaire": "Commune d’Étaples-sur-Mer", "Activité": "Kayak", "Mail": " cn.canche@wanadoo.fr", "Téléphone": "03 21 94 74 26" }, "geometry": { "type": "Point", "coordinates": [ 1.520902476266837, 50.54917802142716 ] } },
+{ "type": "Feature", "properties": { "id": 4, "Partenaire": "Commune d’Étaples-sur-Mer", "Activité": "Croisières", "Mail": "contact@etaples-tourisme.com", "Téléphone": "03 21 09 02 45" }, "geometry": { "type": "Point", "coordinates": [ 1.556895129150494, 50.53999368931202 ] } },
+{ "type": "Feature", "properties": { "id": 5, "Partenaire": "Pat Rando Nature", "Activité": "Randonnée", "Mail": "patrick.bailleux62@gmail.com", "Téléphone": "07 86 23 02 56" }, "geometry": { "type": "Point", "coordinates": [ 1.519909575497633, 50.527334204504648 ] } },
+{ "type": "Feature", "properties": { "id": 6, "Partenaire": "Par Rando Nature", "Activité": "Randonnée", "Mail": "patrick.bailleux62@gmail.com", "Téléphone": "07 86 23 02 56" }, "geometry": { "type": "Point", "coordinates": [ 1.530955596555029, 50.397388316335068 ] } },
+{ "type": "Feature", "properties": { "id": 7, "Partenaire": "Julie Barbier Photographie", "Activité": "Randonnée", "Mail": "juliebarbierphoto@gmail.com", "Téléphone": "06 58 96 63 54" }, "geometry": { "type": "Point", "coordinates": [ 1.530583258766578, 50.373682810470314 ] } },
+{ "type": "Feature", "properties": { "id": 8, "Partenaire": "Association Rando Nature en Somme", "Activité": "Randonnée", "Mail": "rando-nature@wanadoo.fr", "Téléphone": "03 22 26 92 30" }, "geometry": { "type": "Point", "coordinates": [ 1.51742732357462, 50.283204727876573 ] } },
+{ "type": "Feature", "properties": { "id": 9, "Partenaire": "Découvrons la baie de Somme", "Activité": "Randonnée", "Mail": "contact@traversee-baiedesomme.com", "Téléphone": "06 83 72 02 83" }, "geometry": { "type": "Point", "coordinates": [ 1.49210835395991, 50.262850262107889 ] } },
+{ "type": "Feature", "properties": { "id": 10, "Partenaire": "Doc Nature", "Activité": "Randonnée", "Mail": "s.ibarrondau@gmail.com", "Téléphone": "07 84 61 43 78" }, "geometry": { "type": "Point", "coordinates": [ 1.517675548766921, 50.245722723839116 ] } },
+{ "type": "Feature", "properties": { "id": 11, "Partenaire": "Sens Naturel", "Activité": "Randonnée", "Mail": "contact@sens-naturel.com", "Téléphone": "06 88 90 83 59" }, "geometry": { "type": "Point", "coordinates": [ 1.491611903575307, 50.227354059608835 ] } },
+{ "type": "Feature", "properties": { "id": 12, "Partenaire": "Julie Barbier Photographie", "Activité": "Randonnée", "Mail": "juliebarbierphoto@gmail.com", "Téléphone": "06 58 96 63 54" }, "geometry": { "type": "Point", "coordinates": [ 1.517675548766921, 50.213701674032272 ] } },
+{ "type": "Feature", "properties": { "id": 13, "Partenaire": "Maxime Guide en baie de Somme", "Activité": "Randonnée", "Mail": "guidebaiesomme@gmail.com", "Téléphone": "06 13 22 00 02" }, "geometry": { "type": "Point", "coordinates": [ 1.467782285114404, 50.283701178261175 ] } },
+{ "type": "Feature", "properties": { "id": 14, "Partenaire": "La vie buissonnière", "Activité": "Randonnée", "Mail": "laviebuissonniere.com@gmail.com", "Téléphone": "06 38 30 42 13" }, "geometry": { "type": "Point", "coordinates": [ 1.444945567422704, 50.263098487300191 ] } },
+{ "type": "Feature", "properties": { "id": 15, "Partenaire": "La canoterie", "Activité": "Randonnée", "Mail": "info@lacanoterie.fr", "Téléphone": "03 22 30 54 27" }, "geometry": { "type": "Point", "coordinates": [ 1.4670376095375, 50.245226273454513 ] } },
+{ "type": "Feature", "properties": { "id": 16, "Partenaire": "La canoterie", "Activité": "Kayak", "Mail": "info@lacanoterie.fr", "Téléphone": "03 22 30 54 27" }, "geometry": { "type": "Point", "coordinates": [ 1.444449117038102, 50.226112933647329 ] } },
+{ "type": "Feature", "properties": { "id": 17, "Partenaire": "La canoterie", "Activité": "Croisières", "Mail": "info@lacanoterie.fr", "Téléphone": "03 22 30 54 27" }, "geometry": { "type": "Point", "coordinates": [ 1.466292933960597, 50.209730070955452 ] } },
+{ "type": "Feature", "properties": { "id": 18, "Partenaire": "Commune du Touquet-Paris-Plage", "Activité": "Randonnée", "Mail": "contact@letouquet.com", "Téléphone": "03 21 06 72 00" }, "geometry": { "type": "Point", "coordinates": [ 1.557391579535095, 50.518025759793403 ] } }
+]
+}
