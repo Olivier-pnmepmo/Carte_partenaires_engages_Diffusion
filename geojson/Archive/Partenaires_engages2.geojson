@@ -4,6 +4,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "id": 1, "Partenaire": "Commune d’Étaples-sur-Mer", "Activité": "Randonnée", "Mail": "nature.etaples@gmail.com ", "Téléphone": "03 21 84 13 93" }, "geometry": { "type": "Point", "coordinates": [ 1.520906861870941, 50.56950705069206 ] } },
+{ "type": "Feature", "properties": { "id": 2, "Partenaire": "Commune d’Étaples-sur-Mer", "Activité": "Voile", "Mail": " cn.canche@wanadoo.fr", "Téléphone": "03 21 94 74 26" }, "geometry": { "type": "Point", "coordinates": [ 1.556639886991626, 50.562187038881639 ] } },
 { "type": "Feature", "properties": { "id": 3, "Partenaire": "Commune d’Étaples-sur-Mer", "Activité": "Kayak", "Mail": " cn.canche@wanadoo.fr", "Téléphone": "03 21 94 74 26" }, "geometry": { "type": "Point", "coordinates": [ 1.520902476266837, 50.54917802142716 ] } },
 { "type": "Feature", "properties": { "id": 4, "Partenaire": "Commune d’Étaples-sur-Mer", "Activité": "Croisières", "Mail": "contact@etaples-tourisme.com", "Téléphone": "03 21 09 02 45" }, "geometry": { "type": "Point", "coordinates": [ 1.556895129150494, 50.53999368931202 ] } },
 { "type": "Feature", "properties": { "id": 5, "Partenaire": "Pat Rando Nature", "Activité": "Randonnée", "Mail": "patrick.bailleux62@gmail.com", "Téléphone": "07 86 23 02 56" }, "geometry": { "type": "Point", "coordinates": [ 1.519909575497633, 50.527334204504648 ] } },
