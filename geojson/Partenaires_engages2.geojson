@@ -19,6 +19,8 @@
 { "type": "Feature", "properties": { "id": 15, "Partenaire": "La canoterie", "Activité": "Randonnée", "Mail": "info@lacanoterie.fr", "Téléphone": "03 22 30 54 27" }, "geometry": { "type": "Point", "coordinates": [ 1.4670376095375, 50.245226273454513 ] } },
 { "type": "Feature", "properties": { "id": 16, "Partenaire": "La canoterie", "Activité": "Kayak", "Mail": "info@lacanoterie.fr", "Téléphone": "03 22 30 54 27" }, "geometry": { "type": "Point", "coordinates": [ 1.444449117038102, 50.226112933647329 ] } },
 { "type": "Feature", "properties": { "id": 17, "Partenaire": "La canoterie", "Activité": "Croisières", "Mail": "info@lacanoterie.fr", "Téléphone": "03 22 30 54 27" }, "geometry": { "type": "Point", "coordinates": [ 1.466292933960597, 50.209730070955452 ] } },
-{ "type": "Feature", "properties": { "id": 18, "Partenaire": "Commune du Touquet-Paris-Plage", "Activité": "Randonnée", "Mail": "contact@letouquet.com", "Téléphone": "03 21 06 72 00" }, "geometry": { "type": "Point", "coordinates": [ 1.557391579535095, 50.518025759793403 ] } }
+{ "type": "Feature", "properties": { "id": 18, "Partenaire": "Commune du Touquet-Paris-Plage", "Activité": "Randonnée", "Mail": "contact@letouquet.com", "Téléphone": "03 21 06 72 00" }, "geometry": { "type": "Point", "coordinates": [ 1.557391579535095, 50.518025759793403 ] } },
+{ "type": "Feature", "properties": { "id": 19, "Partenaire": "Sens Naturel", "Activité": "Randonnée", "Mail": "contact@sensnaturel.fr", "Téléphone": "03 22 44 56 83" }, "geometry": { "type": "Point", "coordinates": [ 1.50576073953647, 50.397884766719677 ] } },
+{ "type": "Feature", "properties": { "id": 20, "Partenaire": "Découvrons la Baie de Somme", "Activité": "Randonnée", "Mail": "contact@baiedesomme.fr", "Téléphone": "03 22 44 56 81" }, "geometry": { "type": "Point", "coordinates": [ 1.504767838767265, 50.375048049027981 ] } }
 ]
 }
